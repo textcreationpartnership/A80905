@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness the Lord Protector, inviting the people of England and Wales, to a day of solemn fasting and humiliation.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80905</idno>
+            <idno type="STC">Wing C7077</idno>
+            <idno type="STC">Thomason 669.f.17[79]</idno>
+            <idno type="STC">ESTC R211900</idno>
+            <idno type="EEBO-CITATION">99870572</idno>
+            <idno type="PROQUEST">99870572</idno>
+            <idno type="VID">122965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122965)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness the Lord Protector, inviting the people of England and Wales, to a day of solemn fasting and humiliation.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by his Highness special commandment, by Henry Hills and William du-Gard, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653 [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publcation from Wing.</note>
+                  <note>Dated at end: Given at White-Hall this 20. of March 1653 [i.e. 1654].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:122965:1" rendition="simple:additions"/>
+            <head>A Declaration of His Highneſs the Lord Protector, Inviting the People of <hi>England</hi> and <hi>Wales,</hi> to a <hi>Day of Solemn Faſting and Humiliation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He common and notorious ſins ſo boldly and impenitently practiſed amongſt us, notwithſtanding all our Deliverances and Mercies, together with the preſent Rod of an Exceeding and an Unuſual Drought, which hath layen upon us for ſome years, and ſtill continues and increaſeth upon us, threatning Famine and Mortality, are no leſs than the Voice of God, calling aloud in our ears to Faſting, and Mourning, and great Abaſement of Soul before him.</p>
+            <p>And although the General End and Intendment of inviting to a Day of Faſt, be, that all of every Condition and Quality whatever, do try and examine their heart and way more eſpecially, according to their own Light, and in the uſe of ſuch Helps and Means as the Lord in His Providence ſhall afford to each one, before and upon the ſaid day of Meeting; yet finding ſome thoughts ſet ſeriouſly upon our Heart, We judged it not amiſs to recommend the ſame to Chriſtian Conſideration, not to impoſe them upon any, or to confine any within the compaſs thereof; but leaving every man free to the Grace of God, and to the work of his Spirit, who worketh all things in the Hearts of the Sons of Men, according to the Counſel and Good Pleaſure of His own Will.</p>
+            <p>It cannot be denyed but that God hath vouchſafed to appear very much in working the Deliverance of the Nation from their bon<g ref="char:EOLhyphen"/>dage and thraldome, both Spiritual and Civil, and procuring for them a juſt Liberty by His own People.</p>
+            <p>Do we now walk worthy of our high Calling in humbleneſs and lowlineſs of mind, holding forth the Virtues of Chriſt in time of Peace, which was our ſtrength, by the efficacy of which all our great things were accompliſhed in time of War?</p>
+            <p>Have we a heart prepared as willingly to communicate the ſaid Juſt Freedom and Liberty to one another, as we were induſtrious to get it?</p>
+            <p>Do we thankfully acknowledge our mercy in the Liberty of Worſhipping God in Holineſs and Righteouſneſs without fear, be<g ref="char:EOLhyphen"/>ing delivered out of the hands of our Enemies?</p>
+            <p>Is Brotherly Love, and a Healing Spirit of that force and value amongſt us that it ought?</p>
+            <p>Do we own one another more for the grace of God, and for the Spiritual Regeneration, and for the Image of Chriſt in each o<g ref="char:EOLhyphen"/>ther, or for our agreement with each other in this or that form, or opinion?</p>
+            <p>Do we firſt ſearch for the Kingdom of Chriſt within us, before we ſeek one without us? Or do we liſten to them that ſay con<g ref="char:EOLhyphen"/>cerning the comming of Chriſt, Lo here, and lo there?</p>
+            <p>Do we not more contend for Saints having rule in the world, than over their own hearts?</p>
+            <p>Are there not too many amongſt us that cry up the Spirit, with a neglect of Love, Joy, Peace, Meekneſs, Patience, Goodneſs, Temperance, Long-ſuffering, Forbearance, Brotherly kindneſs, Charity, which are the fruits of the Spirit?</p>
+            <p>How do we carry our Selves, not only to the Churches of God, and the Saints, but towards them that are without?</p>
+            <p>Do not ſome of us affirm our ſelves to be the only true Miniſtry, and true Churches of Chriſt, and only to have the Ordinances in purity, excluding our Brethren, though of equal gifts, and having as large a Seal of their Miniſtry, and deſiring with as much fer<g ref="char:EOLhyphen"/>vor and zeal to enjoy the Ordinances in their utmoſt purity?</p>
+            <p>Do we remember old Puritan, or rather Primitive ſimplicity, Self-denyal, Mercy to the Poor, Uprightneſs, and Juſtice? or are we not herein put to ſhame by thoſe we eaſily call Anti Chriſtian or Carnal?</p>
+            <p>Hath one that we judge to be without, equal juſtice with one we will call a Brother?</p>
+            <p>Do we contend for the <hi>Faith once delivered unto the Saints,</hi> as the things of Faith ought to be contended for, with Love, Patience, Tenderneſs, Zeal, by perſwaſion? Or rather impoſingly, proudly, carnally, provokingly, ſenſually, thereby prejudicing the Truth, and, whilſt we are calling aloud for the propagating of the Goſpel, do we not put ſtumbling-blocks in the way of the ſame, and too much endanger to make good the ſlander of the world in charging Profeſſion with <hi>Faction?</hi>
+            </p>
+            <p>For want of Circumſpection and care herein, and a due regard to ſincerity and uprightneſs, have not many apoſtatized, running after <hi>Fancies</hi> and <hi>Notions,</hi> liſtning to filthy <hi>Dreams, worſhipping of Angels,</hi> and been carried by their Impulſions; and inſtead of contend<g ref="char:EOLhyphen"/>ing for the Faith, and holding the form of ſound words, contended againſt <hi>Magistracy,</hi> againſt <hi>Miniſtery,</hi> againſt <hi>Scriptures,</hi> and a<g ref="char:EOLhyphen"/>gainſt <hi>Ordinances,</hi> too much verifying the Propheſies of <hi>Peter</hi> and <hi>Jude,</hi> in theſe following words.</p>
+            <p n="2">
+               <hi>2. Pet. 2. 1.</hi> But there were falſe Prophets alſo among the people, even as there ſhall be falſe Teachers among you, who privily ſhall bring in dam<g ref="char:EOLhyphen"/>nable hereſies, even denying the Lord that bought them, and bring upon themſelves ſwift destruction.</p>
+            <p n="2">
+               <hi>2.</hi> And many ſhall follow their pernicious waies, by reaſon of whom the way of truth ſhall be evil ſpoken of.</p>
+            <p n="3">
+               <hi>3.</hi> And through covetouſneſs ſhall they with feigned words make merchandize of you; whoſe judgement now of a long time lingreth not, and their damnation ſlumbreth not.</p>
+            <p n="10">
+               <hi>10.</hi> But chiefly them that walk after the fleſh in the luſt of uncleanneſs, and deſpiſe Government, preſumptuous are they, ſelf-willed, they are not afraid to ſpeak evill of dignities.</p>
+            <p n="11">
+               <hi>11.</hi> Whereas Angles which are greater in power and might bring not railing accuſations againſt them before the Lord.</p>
+            <p n="12">
+               <hi>12.</hi> But theſe as natural Brute Beaſts made to be taken and deſtroyed, ſpeak evil of the things they underſtand not, and ſhall utterly periſh in their own corruption.</p>
+            <p n="13">
+               <hi>13.</hi> And ſhall receive the reward of unrighteouſneſs, as they that count it pleaſure to riot in the day time: spots they are and blemiſhes, ſporting themſelves with their own deceivings while they feaſt with you.</p>
+            <p n="15">
+               <hi>15.</hi> Having eyes full of adultery, and that cannot ceaſe from ſin, beguiling unſtable ſouls; an heart they have exerciſed with covetous practiſes, curſed children. <hi>Jude ver. 4.</hi> For there are certain men crept in unwares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into laſciviouſneſs, and denying the only Lord God, and our Lord Jeſus Christ.</p>
+            <p n="8">
+               <hi>8.</hi> Likewiſe alſo theſe filthy Dreamers defile the fleſh, despiſe Dominion, and ſpeak evil of dignities.</p>
+            <p n="10">
+               <hi>10.</hi> But theſe ſpeak evil of thoſe things which they know rot, but what they know naturally as brute beaſts, in thoſe things they corrupt themſelves.</p>
+            <p n="11">
+               <hi>11.</hi> Wo unto them, for they have gone in the way of <hi>Cain,</hi> and ran greedily after the errour of <hi>Balaam</hi> for reward, and periſhed in the gain-ſaying of <hi>Core.</hi>
+            </p>
+            <p n="12">
+               <hi>12.</hi> Theſe are ſpots in your feasts of Charity when they feaſt with you, feeding themſelves without fear: clouds they are without water, carried about with winds; trees whoſe fruit withereth, without fruit, twice dead, plucked up by the roots.</p>
+            <p n="13">
+               <hi>13.</hi> Raging waves of the Sea, foaming out their ownſhame; wandering ſtars, to whom is reſerved the blackneſs of darkneſs for ever.</p>
+            <p n="16">
+               <hi>16.</hi> Theſe are Murmurers, complainers, walking after their own luſts, and their mouth ſpeaketh great ſwelling words, having mens perſons in admiration be<g ref="char:EOLhyphen"/>cauſe of advantage.</p>
+            <p n="19">
+               <hi>19.</hi> Theſe be they who ſeparate themſelves, ſenſual having, not the Spirit.</p>
+            <p>And notwithſtanding all theſe evils, and worſe, are upon, and in the midſt of us, like gray hairs, here and there, and we <hi>know it not, our pride teſtifying to our face Hoſ.</hi> 7. 9, 10. and we not return to the Lord our God, nor ſeek him for all this, but theſe things are contended for, and juſtified under the notion of Liberty, it being too commonly ſaid that the Magiſtrate hath nothing to do either in repreſſing, or remedying theſe things, We do hereby appeal to the hearts and conſciences of all fearing the Lord, whether there be not as great cauſe as ever to lay our <hi>Mouthes in the dust,</hi> and to <hi>abhor our ſelves</hi> before the Lord, <hi>for theſe abominations,</hi> whereby the eyes of his jealouſie are provoked, and to ſeek pardon and remedy from himſelf of theſe things.</p>
+            <p>Add we to theſe, The reſiſtance, hatred, and neglect of the Goſpel by the generality of men, the contempt and deſpite done to the ſincere profeſſors of it, even for the image of Chriſt in them (although they have been inſtruments of many mercies, and of the obtaining a juſt freedom for the nation) The wickedneſſes, oaths, drun<g ref="char:EOLhyphen"/>kenneſſes, revellings, and all manner of licentiouſneſs, for which things ſake, the Scriptures have ſaid, that the wrath of God ſhall undoubtedly overtake the children of diſobedience.</p>
+            <p>And laſtly, the impunity of theſe things, through the neglect of the Magiſtracy, throughout the Nation, and then judge whether there be not cauſe, that we be called upon, and do call upon each other ſeriouſly, to lay all theſe things to heart, being greatly a baſed before the Lord for them.</p>
+            <p>Upon the ſerious conſideration of theſe things, We judge it not only warrantable, but a duty, to call upon you, and our ſelves, to ſet apart time to humble our ſouls be<g ref="char:EOLhyphen"/>fore the Lord, to cry unto him for broken &amp; penitent hearts, and that he would turn away his wrath, &amp; be reconciled to us; for the Lord he is merciful, gracious, long-ſuffering, and a bundant in goodneſs and truth, forgiving iniquity, tranſgreſſion and ſin, and will by no means clear the guilty, who are only ſuch as go on in their hardened and impe<g ref="char:EOLhyphen"/>nitent hearts, refuſing the grace offered by Jeſus Chriſt.</p>
+            <p>It is therefore hereby declared, That We, and our Council, do purpoſe (by the grace of God) to ſet apart <hi>Fryday</hi> next, being the 24. of this preſent <hi>March,</hi> for a day of <hi>Humiliation.</hi>
+            </p>
+            <p>And it is hereby Ordered that timely notice be given to the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> who (together with the out-Pariſhes) we doubt not, will willingly keep the ſame day, And that like notice be given throughout <hi>England</hi> and <hi>Wales,</hi> to have their ſeveral meetings upon the ſame day Fortnight; And that Copies hereof be Print<g ref="char:EOLhyphen"/>ed and publiſhed, to be ſent to the ſeveral Parts of the Nation, to invite them unto the performance of this duty.</p>
+            <closer>
+               <dateline>Given at <hi>White-Hall</hi> 
+                  <date>this 20. <hi>of</hi> March 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed by his Highneſs ſpecial Commandment, By <hi>Henry Hills</hi> and <hi>William du-Gard,</hi> Printers to His Highneſs the Lord Protector. 1653.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
